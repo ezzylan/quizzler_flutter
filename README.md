@@ -1,2 +1,2 @@
 # quizzler_flutter
-A quiz app that tests your general knowledge.
+A quiz app made in Flutter that tests your general knowledge.
